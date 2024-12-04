@@ -7,3 +7,4 @@ This is First commit from main branch
 
 # rebase
 * rebase is another merge strategy
+* developing still 
