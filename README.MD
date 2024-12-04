@@ -9,3 +9,6 @@ This is First commit from main branch
 * rebase is another merge strategy
 * developing still 
 * development is completed
+
+### squash
+* started development
