@@ -8,4 +8,10 @@ This is First commit from main branch
 # rebase
 * rebase is another merge strategy
 * developing still 
-* developmen is completed
+* development is completed
+
+### squash
+* started development
+* adding more code
+* still adding more code
+* coding completed
